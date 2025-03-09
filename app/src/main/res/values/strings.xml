@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidUnitTest</string>
+    <string name="masukkan_nama_tamu">Masukkan nama tamu</string>
+    <string name="tambah_tamu">Tambah Tamu</string>
+</resources>
